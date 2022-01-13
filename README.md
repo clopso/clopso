@@ -12,8 +12,8 @@
 <p align="left">🕷️ <a href="https://clopso.github.io/">Webpage</a></p>
 
 <p align="left"> 
-  <a href="https://www.last.fm/user/clopvp" target="_blank"><img src="https://img.shields.io/badge/last.fm-635f72?style=for-the-badge&logo=last.fm&logoColor=black" target="_blank"></a>
-  <a href="https://open.spotify.com/playlist/3KskDxfDmKfMJ8zcdGp2qg" target="_blank"><img src="https://img.shields.io/badge/Spotify-8b7c93?&style=for-the-badge&logo=spotify&logoColor=black" target="_blank"></a>
-  <a href="https://twitter.com/clopso" target="_blank"><img src="https://img.shields.io/badge/Twitter-b89bb3?style=for-the-badge&logo=twitter&logoColor=black" target="_blank"></a>
+  <a href="https://www.last.fm/user/clopvp" target="_blank"><img src="https://img.shields.io/badge/last.fm-b1bd00?style=for-the-badge&logo=last.fm&logoColor=black" target="_blank"></a>
+  <a href="https://open.spotify.com/playlist/3KskDxfDmKfMJ8zcdGp2qg" target="_blank"><img src="https://img.shields.io/badge/Spotify-7b8c00?&style=for-the-badge&logo=spotify&logoColor=black" target="_blank"></a>
+  <a href="https://twitter.com/clopso" target="_blank"><img src="https://img.shields.io/badge/Twitter-4c5e00?style=for-the-badge&logo=twitter&logoColor=black" target="_blank"></a>
   
 </p>
