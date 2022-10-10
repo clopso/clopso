@@ -7,7 +7,10 @@
   <strong>C#</strong>,
   <strong>Python</strong>.
 </p>
-<p align="left">🖥️ Ferramentas: <strong>VSCode</strong> </p>
+<p align="left">🖥️ Ferramentas: 
+<strong>VSCode</strong>,
+<strong>Eclipse</strong>
+</p>
 <p align="left">📌 Rolândia-PR</p>
 <p align="left">🕷️ <a href="https://clopso.github.io/">Webpage</a></p>
 
