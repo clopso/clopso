@@ -1,17 +1,17 @@
-<img src="https://github.com/clopso/clopso/blob/main/laptop.svg" min-width="350px" max-width="350px" width="350px" align="right" alt="laptop">
+<img src="https://github.com/clopso/clopso/blob/main/laptop.svg" min-width="260px" max-width="260px" width="330px" align="right" alt="laptop">
 
-<p align="left">😁 <strong>Seja bem-vindo ao meu perfil!</strong></p>
-<p align="left">📚 Perfil voltado para aprendizagem.</p>
-<p align="left">🔌 Linguagens: 
+<p align="left">🤠 <strong>Seja bem-vindo ao meu perfil!</strong></p>
+<p align="left">📒 Perfil voltado para aprendizagem.</p>
+<p align="left">🔑 Linguagens: 
   <strong>C</strong>,
-  <strong>C#</strong>,
-  <strong>Python</strong>.
+  <strong>Python</strong>,
+  <strong>Javascript</strong>.
 </p>
-<p align="left">🖥️ Ferramentas: 
+<p align="left">☢️ Ferramentas: 
 <strong>VSCode</strong>,
 <strong>Eclipse</strong>
 </p>
-<p align="left">📌 Rolândia-PR</p>
+<p align="left">🌤️ Rolândia-PR</p>
 
 <p align="left"> 
   <a href="https://www.last.fm/user/clopvp" target="_blank"><img src="https://img.shields.io/badge/last.fm-FFB326?style=for-the-badge&logo=last.fm&logoColor=black" target="_blank"></a>
